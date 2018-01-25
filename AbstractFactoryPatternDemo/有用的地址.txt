@@ -1,0 +1,23 @@
+http://www.cnblogs.com/chenhongliang/p/5312517.html 
+http://www.cnblogs.com/liu-chao-feng/p/5636063.html   stringBuffer的使用方法
+http://blog.csdn.net/shineflowers/article/details/41747149     Java中关键字continue、break和return的区别
+http://www.cnblogs.com/Ming8006/p/6297333.html#c1.1    Mockito教程
+http://www.doc88.com/p-6651814208290.html           ACT
+https://www.nowcoder.com/questionTerminal/3ded1983c85c4ae197e005bd31777bc7?pos=21&mutiTagIds=570&orderByHotValue=0   异常
+https://www.cnblogs.com/hjchoset/p/6073363.html   网站上线流程
+https://www.juhe.cn/   接口
+https://www.cnblogs.com/ldq2016/p/5528177.html   正则表达式
+http://book.ecmoban.com/images/db.htm   数据库
+http://blog.csdn.net/lulei9876/article/details/8365500   验证码
+http://www.importnew.com/26613.html   异常处理
+http://blog.csdn.net/u012661010/article/details/76696309   多线程的使用场景
+http://www.uplookedu.com/page/java/shipin/?jh=bj-J3&dy=java-jc-z&gjc=cucumberjavajc&e_creative=17983705850&e_keywordid=68619550799 
+https://www.cnblogs.com/gwx238044/articles/6633252.html   spring整合
+http://blog.csdn.net/woxueliuyun/article/details/43267365   HttpURLConnection
+http://blog.csdn.net/java4found/article/details/8667912   集合遍历
+https://www.cnblogs.com/tt_mc/archive/2012/02/28/2372607.html   多线程对synchronized关键字的理解
+https://www.cnblogs.com/xdp-gacl/p/4200090.html  文件上传下载
+http://blog.csdn.net/rtuujnncc/article/list/1   沈夏平博客
+https://www.zhihu.com/question/29031276  架构师
+http://blog.csdn.net/tigerhu256/article/details/78119963?%3E   上传下载
+http://www.runoob.com/design-pattern/design-pattern-tutorial.html   设计模式
